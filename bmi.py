@@ -19,7 +19,7 @@ def classify_bmi(bmi_value):
     elif 18.5 <= bmi_value <= 25:
         print("Normal weight")
     else: 
-        print("Overweight, better exercise!!")
+        print("Overweight")
     return
 
 def app():
